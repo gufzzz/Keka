@@ -45,7 +45,7 @@
 "191.title" = "操作";
 
 /* Class = "NSTextFieldCell"; title = "Automatic action: depending on file extensions Keka will decide if compress or uncompress."; ObjectID = "194"; */
-"194.title" = "自动操作：Kaka 根据文件扩展名决定压缩还是解压";
+"194.title" = "自动操作：Keka 根据文件扩展名决定压缩还是解压";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "196"; */
 "196.title" = "OtherViews";
