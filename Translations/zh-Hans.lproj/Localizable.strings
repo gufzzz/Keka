@@ -34,7 +34,7 @@
 "Creating file \"%@...\"" = "正在创建文件“%@…”";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "已用时间：%d:%@%d:%@%d 时%@";
 "Time elapsed: %d:%@%d minutes%@" = "已用时间：%d:%@%d 分%@";
-"Time elapsed: %d seconds%@" = 已用时间：%d 秒%@";
+"Time elapsed: %d seconds%@" = "已用时间：%d 秒%@";
 "%d seconds" = "%d 秒";
 "%d:%@%d minutes" = "%d:%@%d 分";
 "%d:%@%d:%@%d hours" = "%d:%@%d:%@%d 时";
@@ -94,7 +94,7 @@
 "Same as original file" = "和原文件相同";
 "Custom name..." = "自定名称…";
 "Compressed file" = "压缩后的文件";
-"Set as default folder" = 设置为默认文件夹";
+"Set as default folder" = "设置为默认文件夹";
 "Perform automatic action" = "执行自动操作";
 "Always compress" = "始终压缩";
 "Always extract" = "始终解压";
